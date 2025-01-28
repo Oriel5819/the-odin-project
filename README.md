@@ -2,5 +2,5 @@
 
 ## Branches
 
-main
-sign-up-form
+- main
+- sign-up-form
